@@ -1,0 +1,5 @@
+print("Hola, mundo!")
+print("STAR WARS")
+print("EPSISODE I: LA AMENAZA FANTASMA")
+print("la federacion de comercio ha bloqueado los planetas de naboo")
+print("Los Jedi son enviados a negociar...")
